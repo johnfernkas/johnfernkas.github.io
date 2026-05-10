@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
   <rect width="32" height="32" rx="5" fill="#3c4e38"/>
-  <text x="14" y="16" text-anchor="middle" dominant-baseline="central"
+  <text x="16" y="16" text-anchor="middle" dominant-baseline="central"
         font-family="Georgia, serif" font-size="18" font-weight="bold" fill="#f0ebe2">F</text>
 </svg>
