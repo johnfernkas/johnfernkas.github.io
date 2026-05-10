@@ -1,0 +1,23 @@
+<svg viewBox="0 0 240 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Pinyon+Script&display=swap');
+    </style>
+    <clipPath id="shield-clip">
+      <path d="M35,35 L205,35 L205,165 Q205,242 120,268 Q35,242 35,165 Z"/>
+    </clipPath>
+  </defs>
+
+  <!-- Shield filled -->
+  <path d="M35,35 L205,35 L205,165 Q205,242 120,268 Q35,242 35,165 Z"
+        fill="#3c4e38"/>
+
+  <!-- Inner inset border -->
+  <path d="M44,44 L196,44 L196,163 Q196,232 120,257 Q44,232 44,163 Z"
+        fill="none" stroke="#f0ebe2" stroke-width="1" opacity="0.65" stroke-linejoin="round"/>
+
+  <!-- F monogram -->
+  <text x="100" y="162" text-anchor="middle" dominant-baseline="middle"
+        font-family="'Pinyon Script', cursive" font-size="95"
+        fill="#f0ebe2" clip-path="url(#shield-clip)">F</text>
+</svg>
