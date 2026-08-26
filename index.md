@@ -12,7 +12,6 @@ When I'm not at a keyboard, I'm probably working on something around the house, 
 
 - [Squawk](https://github.com/johnfernkas/squawk) — macOS menubar app that discovers and monitors MCP servers across all your AI coding tools
 - [Braun BC03 Clock](https://github.com/johnfernkas/bc03-embedded-swift) — Replica of the Braun BC03 desk clock running Embedded Swift on a Waveshare RP2350
-- [Home](https://github.com/johnfernkas/home) — Home Assistant configuration and automations
 - [Dotfiles](https://github.com/johnfernkas/dotfiles) — My macOS development environment
 
 {% if site.posts.size > 0 %}
